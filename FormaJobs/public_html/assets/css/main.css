@@ -1424,10 +1424,11 @@
 					color: #212f35;
 					margin: 0 0 1em 0;
 				}
-
-				#footer a {
+				
+				#footer a, li {
 					color: #da005b;
 				}
+
 
 		/* Copyright */
 
@@ -1697,7 +1698,7 @@
 					margin: 0 0 0.75em 0;
 				}
 
-				#footer a {
+				#footer a, li {
 					color: #da005b;
 				}
 
